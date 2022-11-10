@@ -9,4 +9,6 @@ Celine Leung: [Github](https://github.com/ccelineleung) | [LinkedIn](https://www
 Hannah Bernstein: [Github](https://github.com/hbernie) | [LinkedIn](https://www.linkedin.com/in/bernstein-hannah/)   
 Johnjered Tolentino: [Github](https://github.com/Johnjeredivant) | [LinkedIn](https://www.linkedin.com/in/johnjered-tolentino/)  
 Ray Kim: [Github](https://github.com/reykeem) | [LinkedIn](https://www.linkedin.com/in/raymondhkim/)                                                                                                                            
-
+---
+permalink: /index.html
+---
